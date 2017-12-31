@@ -1,2 +1,2 @@
 # kshop-reg-center
-kshop项目数据中心
+kshop项目注册中心
